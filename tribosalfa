@@ -45,6 +45,10 @@ async function run_all()
     $.ajax({url:window.location.href.split("scavenge")[0] + "units", success:successfunc});
 
     setTimeout(function(){
+        console.log("changing_page");
+        $("[class='arrowRight']").click();
+        $("[class='groupRight']").click();
+
         setTimeout(function(){
             console.log("reloading");
             location.reload();
