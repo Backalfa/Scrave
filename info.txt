@@ -1,8 +1,1 @@
-{
-"geral":[
-{"titulo": "Início", "descricao": "Aqui fica a descrição sobre o Início."}
-{"titulo": "Quem Somos", "descricao": "Um pequeno texto sobre nós."}
-{"titulo": "Produtos", "descricao": "Texto sobre os produtos."}
-{"titulo": "Contactos", "descricao": "Os contactos."}
-]
-}
+
